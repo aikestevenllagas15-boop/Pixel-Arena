@@ -1,0 +1,6 @@
+{
+  "name": "Pixel Arena Multiplayer",
+  "description": "Real-time online multiplayer arena for Pixel Arena — host private rooms, share invite links with friends, and battle across 7 3D voxel maps including Mega Warzone.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
